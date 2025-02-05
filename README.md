@@ -26,7 +26,7 @@ O semáforo operará da seguinte maneira:
 
 Para utilizar o programa com o simulador Wokwi, o usuário deve:
 
-1. Clonar este repositório: git clone https://github.com/saturnino028/U4C2O1234A---Matriz-de-LEDs.git;
+1. Clonar este repositório: git clone https://github.com/saturnino028/U4C51234E_Temporizadores_Q1.git;
 2. Usando a extensão Raspberry Pi Pico importar o projeto;
 3. Compilar o código e clicar no arquivo diagram.json.
 
